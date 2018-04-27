@@ -8,7 +8,7 @@
 %define device_pretty Xperia Z3 Tablet Compact (LTE)
 
 # ../droid-hal-version/droid-hal-device.inc for similar macros
-%define have_vibrator 1
+%define have_vibrator_native 1
 %define have_led 1
 
 %include droid-hal-version/droid-hal-version.inc
